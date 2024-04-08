@@ -1,0 +1,8 @@
+build:
+  cmake-ext: True
+  depends:
+    - microcdr
+    - microxrcedds-client
+    - rcutils
+    - rmw
+    - rosidl_typesupport_microxrcedds
